@@ -1,2 +1,2 @@
 # sll-ecommerce
-Generic ecommerce backend built with NodeJS + Express and MongoDB
+Ecommerce backend built with NodeJS + Express and MongoDB
